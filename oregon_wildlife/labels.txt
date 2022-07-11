@@ -1,0 +1,7 @@
+black_bear
+bobcat
+elk
+gray_fox
+mountain_beaver
+nutria
+raven
